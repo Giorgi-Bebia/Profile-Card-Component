@@ -1,5 +1,4 @@
 body {
-    max-width: 1440px;
     width: 100%;
     background: url(../img/bg-pattern-bottom.svg) bottom -660px right -200px no-repeat, url(../img/bg-pattern-top.svg) top -525px left -275px no-repeat;
     background-color: #19A1AE;
